@@ -1,0 +1,63 @@
+Test 0: array size = 7, max value = 90
+BubbleSort: 0.00094 (milliseconds) Sorted
+CountSort: 0.00128 (milliseconds) Sorted
+RadixSort: 0.00137 (milliseconds) Sorted
+MergeSort: 0.00095 (milliseconds) Sorted
+QuickSort: 0.00059 (milliseconds) Sorted
+
+Test 1: array size = 100, max value = 100
+BubbleSort: 0.0565 (milliseconds) Sorted
+CountSort: 0.003549 (milliseconds) Sorted
+RadixSort: 0.01735 (milliseconds) Sorted
+MergeSort: 0.01675 (milliseconds) Sorted
+QuickSort: 0.01117 (milliseconds) Sorted
+
+Test 2: array size = 1000, max value = 1000000
+BubbleSort: 5.47438 (milliseconds) Sorted
+CountSort: 11.6267 (milliseconds) Sorted
+RadixSort: 0.37558 (milliseconds) Sorted
+MergeSort: 0.21648 (milliseconds) Sorted
+QuickSort: 0.162279 (milliseconds) Sorted
+
+Test 3: array size = 10000, max value = 1000
+BubbleSort: 603.852 (milliseconds) Sorted
+CountSort: 0.17807 (milliseconds) Sorted
+RadixSort: 2.33296 (milliseconds) Sorted
+MergeSort: 2.74915 (milliseconds) Sorted
+QuickSort: 2.08893 (milliseconds) Sorted
+
+Test 4: array size = 100000, max value = 50000
+BubbleSort: 0.00012 (milliseconds) Not sorted
+CountSort: 2.62513 (milliseconds) Sorted
+RadixSort: 30.14 (milliseconds) Sorted
+MergeSort: 34.0058 (milliseconds) Sorted
+QuickSort: 28.0818 (milliseconds) Sorted
+
+Test 5: array size = 500000, max value = 100000
+BubbleSort: 0.00028 (milliseconds) Not sorted
+CountSort: 10.2758 (milliseconds) Sorted
+RadixSort: 183.034 (milliseconds) Sorted
+MergeSort: 190.012 (milliseconds) Sorted
+QuickSort: 190.211 (milliseconds) Sorted
+
+Test 6: array size = 1000000, max value = 10000
+BubbleSort: 0.00015 (milliseconds) Not sorted
+CountSort: 16.9272 (milliseconds) Sorted
+RadixSort: 323.134 (milliseconds) Sorted
+MergeSort: 426.78 (milliseconds) Sorted
+QuickSort: 416.981 (milliseconds) Sorted
+
+Test 7: array size = 1000000, max value = 500000
+BubbleSort: 0.00018 (milliseconds) Not sorted
+CountSort: 27.6865 (milliseconds) Sorted
+RadixSort: 371.299 (milliseconds) Sorted
+MergeSort: 402.172 (milliseconds) Sorted
+QuickSort: 352.728 (milliseconds) Sorted
+
+Test 8: array size = 2000000, max value = 2000000
+BubbleSort: 0.00051 (milliseconds) Not sorted
+CountSort: 100.339 (milliseconds) Sorted
+RadixSort: 872.377 (milliseconds) Sorted
+MergeSort: 841.98 (milliseconds) Sorted
+QuickSort: 753.804 (milliseconds) Sorted
+
